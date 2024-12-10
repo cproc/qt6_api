@@ -1,0 +1,13 @@
+_Z39qml_register_types_QtQuick_LocalStoragev T
+_ZN16QQmlLocalStorage11qt_metacallEN11QMetaObject4CallEiPPv T
+_ZN16QQmlLocalStorage11qt_metacastEPKc T
+_ZN16QQmlLocalStorage16openDatabaseSyncEP14QQmlV4Function T
+_ZN16QQmlLocalStorage16staticMetaObjectE D 56
+_ZNK16QQmlLocalStorage10metaObjectEv T
+_ZTI16QQmlLocalStorage D 24
+_ZTIN3QV415ExecutionEngine9DeletableE D 16
+_ZTS16QQmlLocalStorage R 19
+_ZTSN3QV415ExecutionEngine9DeletableE D 34
+_ZTV16QQmlLocalStorage D 112
+__gnu_Unwind_Find_exidx T
+dl_unwind_find_exidx W
