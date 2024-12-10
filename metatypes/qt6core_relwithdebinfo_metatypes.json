@@ -1925,30 +1925,6 @@
     {
         "classes": [
             {
-                "className": "QKqueueFileSystemWatcherEngine",
-                "object": true,
-                "qualifiedClassName": "QKqueueFileSystemWatcherEngine",
-                "slots": [
-                    {
-                        "access": "private",
-                        "name": "readFromKqueue",
-                        "returnType": "void"
-                    }
-                ],
-                "superClasses": [
-                    {
-                        "access": "public",
-                        "name": "QFileSystemWatcherEngine"
-                    }
-                ]
-            }
-        ],
-        "inputFile": "qfilesystemwatcher_kqueue_p.h",
-        "outputRevision": 68
-    },
-    {
-        "classes": [
-            {
                 "className": "QAbstractAnimation",
                 "enums": [
                     {
