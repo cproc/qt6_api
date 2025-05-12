@@ -1,8 +1,8 @@
 set(Qt6_FOUND FALSE)
 
 set(__qt_platform_requires_host_info_package "TRUE")
-set(__qt_platform_initial_qt_host_path "/usr/local/genode/tool/23.05/qt6")
-set(__qt_platform_initial_qt_host_path_cmake_dir "/usr/local/genode/tool/23.05/qt6/lib/cmake")
+set(__qt_platform_initial_qt_host_path "")
+set(__qt_platform_initial_qt_host_path_cmake_dir "")
 
 _qt_internal_setup_qt_host_path(
     "${__qt_platform_requires_host_info_package}"
